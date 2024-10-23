@@ -1,5 +1,7 @@
 # 2024-10-23
 
+https://www.youtube.com/watch?v=-P9T33CBk5A
+
 #include "HX711.h"
  
 const int LOADCELL_DOUT_PIN = 3; 
